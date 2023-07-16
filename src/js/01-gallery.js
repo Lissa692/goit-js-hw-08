@@ -1,4 +1,5 @@
 // Add imports above this line
+<<<<<<< HEAD
 import Simplelightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import { galleryItems } from './gallery-items';
@@ -32,3 +33,9 @@ console.log(galleryEl);
 
 console.log(galleryItems);
 console.log(Simplelightbox);
+=======
+import { galleryItems } from './gallery-items';
+// Change code below this line
+
+console.log(galleryItems);
+>>>>>>> 3e31aa00d34d2819fdd62d559642a62c650b12e2

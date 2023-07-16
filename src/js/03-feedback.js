@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import throttle from 'lodash.throttle';
 
 const formEl = document.querySelector('.feedback-form');
@@ -40,3 +41,6 @@ function fillTextarea() {
   console.log(savedText.email);
   console.log(savedText.message);
 }
+=======
+
+>>>>>>> 3e31aa00d34d2819fdd62d559642a62c650b12e2

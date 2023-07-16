@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Player from '@vimeo/player';
 import throttle from 'lodash.throttle';
 const iframe = document.querySelector('iframe');
@@ -21,3 +22,6 @@ player.setCurrentTime(currentTimeSaved).catch(function (error) {
       break;
   }
 });
+=======
+
+>>>>>>> 3e31aa00d34d2819fdd62d559642a62c650b12e2
